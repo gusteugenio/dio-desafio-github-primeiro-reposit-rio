@@ -1,0 +1,12 @@
+Link para baixar o Git: https://git-scm.com/downloads
+Link do Github: https://github.com/
+
+--- Comandos básicos ---
+
+git clone -> clona localmente o repositório desejado
+git add -> adiciona um arquivo para receber commit e ser enviado remotamente
+git commit -m "..." -> adiciona o commit com a mensagem referente ao que foi feito
+git push -> envia as alterações locais para o github
+git status -> mostrará o status referente ao repositório local
+git pull -> atualiza os arquivos de um repositório local com os do repositório remoto
+
